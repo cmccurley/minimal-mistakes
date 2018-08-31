@@ -20,8 +20,8 @@ title                    : "Connor McCurley"
 title_separator          : "-"
 name                     : "Connor McCurley"
 description              : "This is my personal bio to keep up to date with past and current projects."
-# url                      : http://cmccurley.github.io
-url                      : http://localhost:4000
+url                      : http://cmccurley.github.io
+# url                      : http://localhost:4000
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : cmccurley/cmccurley.github.io
 teaser                   : #/photos/profile1.jpg # path of fallback teaser image, e.g. "/assets/images/500x300.png"
