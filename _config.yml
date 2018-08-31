@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -20,10 +20,11 @@ title                    : "Connor McCurley"
 title_separator          : "-"
 name                     : "Connor McCurley"
 description              : "This is my personal bio to keep up to date with past and current projects."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+# url                      : http://cmccurley.github.io
+url                      : http://localhost:4000
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : cmccurley/cmccurley.github.io
-teaser                   : #/assets/images/James_Bocinsky_FallBackImage.png # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : #/photos/profile1.jpg # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -36,7 +37,7 @@ comments:
     # https://developers.facebook.com/docs/plugins/comments
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : # "dark"
 staticman:
   allowedFields          : # ['name', 'email', 'url', 'message']
   branch                 : # "master"
@@ -101,8 +102,8 @@ analytics:
 # Site Author
 author:
   name             : "Connor McCurley"
-  avatar           : #/assets/images/dsavatar.jpg
-  bio              : "Electrical Engineer - Machine Learning"
+  avatar           : /photos/profile1.jpg
+  bio              : "Machine Learning PhD student at the University of Florida"
   location         : "Gainesville, Florida"
   email            : "cmccurley@ufl.edu"
   uri              : 
@@ -119,7 +120,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "cmccurley" # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  linkedin         : "mccurleyconnor" # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
