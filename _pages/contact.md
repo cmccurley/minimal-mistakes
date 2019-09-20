@@ -3,4 +3,8 @@ permalink: /contact/
 title: "Contact"
 ---
 
-This is where I'll include my contact information.
+##Email:
+cmccurley@ufl.edu
+
+##Phone:
+(405)808-3179
