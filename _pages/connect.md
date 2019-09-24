@@ -2,7 +2,7 @@
 permalink: /connect/
 title: "Connect"
 header:
-  overlay_color: "#fd8900"
+  overlay_color: "#000"
 ---
 
 Let's connect!  Here is my contact information:

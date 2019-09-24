@@ -1,6 +1,8 @@
 ---
 permalink: /contact/
 title: "Contact"
+header:
+  overlay_color: "#000"
 ---
 
 ##Email:

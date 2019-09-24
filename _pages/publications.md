@@ -2,7 +2,7 @@
 permalink: /publications/
 title: "Publications and Presentations"
 header:
-  overlay_color: "#fd8900"
+  overlay_color: "#000"
 ---
 ## Publications
 

@@ -2,7 +2,7 @@
 permalink: /aboutme/
 title: "About Me"
 header:
-  overlay_color: "#fd8900"
+  overlay_color: "#000"
 ---
 
 ## About Me

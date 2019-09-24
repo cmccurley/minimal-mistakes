@@ -2,7 +2,7 @@
 permalink: /research/
 title: "Research"
 header:
-  overlay_color: "#fd8900"
+  overlay_color: "#000"
 ---
 
 ## Research Interests
