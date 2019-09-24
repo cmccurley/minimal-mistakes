@@ -1,7 +1,11 @@
 ---
 permalink: /aboutme/
 title: "About Me"
+header:
+  overlay_color: "#fd8900"
 ---
+
+## About Me
 
 I am a PhD student working in [Machine Learning and Pattern Recognition](https://en.wikipedia.org/wiki/Machine_learning) at the [University of Florida](https://www.ece.ufl.edu/), advised by [Dr. Alina Zare](https://faculty.eng.ufl.edu/machine-learning/machine-learning-sensing-lab/).  My current research interests include multi-sensor, multi-resolution fusion using uncertain and ambiguously-labeled data, specifically, through the utilization of [manifold learning](https://en.wikipedia.org/wiki/nonlinear_dimensionality_reduction).
 
