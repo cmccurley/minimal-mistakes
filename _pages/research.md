@@ -20,22 +20,10 @@ Funding Agency: Army Research Office
 PI: Dr. Alina Zare  
 Dates: May 2019 - Present
 
-Summary:
-
 ## Completed Research Projects
 
-<figure>
-    <a href="/photos/landmine/landmine.jpg"><img src="/photos/landmine/landmine.jpg"></a>
-    <figcaption>Image of a partially-buried explosive hazard.</figcaption>
-</figure>
 * **Multi-Sensor Fusion for Buried Object Detection**  
 Funding Agency: Army Research Office  
 PI: Dr. Alina Zare  
 Dates: April 2017 - May 2019
 
-<figure>
-    <a href="/photos/landmine/gpr.jpg"><img src="/photos/landmine/gpr.jpg"></a>
-    <figcaption>Ground-penetrating radar scans.</figcaption>
-</figure>
-
-Summary:
