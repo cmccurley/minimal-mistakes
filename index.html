@@ -1,4 +1,32 @@
 ---
-layout: home
-author_profile: true
+title: "Connor McCurley"
+layout: splash
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.4"
+  cta_label: "About"
+  cta_url: "/aboutme/"
+excerpt: "Ph.D. Student ECE, Machine Learning, University of Florida."
+intro: 
+  - excerpt: '*""* - '
+feature_row:
+  - image_path: /photos/stock/books.jpg
+    title: "Publications"
+    btn_label: "Check it out"
+    btn_class: "btn--primary"
+    url: "/publications/"
+  - image_path: /photos/stock/code.jpg
+    title: "Research"
+    btn_label: "Check it out"
+    btn_class: "btn--primary"
+    url: "/research/"
+  - image_path: /photos/stock/resume.jpg
+    title: "Resume"
+    btn_label: "Check it out"
+    btn_class: "btn--primary"
+    url: "/documents/mccurley_resume.pdf"
 ---
+
+{% include feature_row id="intro" type="center" %}
+
+{% include feature_row %}

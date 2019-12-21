@@ -10,19 +10,32 @@ header:
 Machine Learning, Pattern Recognition, Multi-resolution Sensor Fusion, Dimensionality Reduction and Manifold Learning, Learning from Imprecise and Uncertain Labels, Target Detection
 
 ## Summary
-I currently conduct research in the Machine Learning and Sensing Lab (MLSL) at the University of Florida.  Our lab is dedicated to advancing methods for the analysis of remotely-sensed data.  I have been funded by the Army Research Office during my PhD work to develop Machine Learning algorithms for target detection and sensor fusion.  For the remainder of my PhD studies, I plan to investigate methods for multi-sensor, multi-resolution fusion which consider uncertain and imprecise ground-truth.  My research is applicable to a broad range of tasks, including: target recognition in hyperspectral imagery, self-driving vehicles, medical diagnosis, land-use classification, manufactoring, meteorology, environmental monitoring, economic forecasting and more.
+I currently conduct research in the [Machine Learning and Sensing Lab](https://faculty.eng.ufl.edu/machine-learning/) (MLSL) at the University of Florida.  Our lab is dedicated to advancing methods for the analysis of remotely-sensed data.  I have been funded by the Army Research Office during my PhD work to develop Machine Learning algorithms for target detection and sensor fusion.  For the remainder of my PhD studies, I plan to investigate methods for discriminative manifold learning which consider uncertain and imprecise ground-truth.  My research is applicable to a broad range of tasks, including: target recognition in hyperspectral imagery, self-driving vehicles, medical diagnosis, land-use classification, manufactoring, meteorology, environmental monitoring, economic forecasting and more.
 
 
 ## Current Research Projects
 
-* **Multi-Sensor, Multi-Resolution Fusion for Automatic Target Recognition**  
+* **Aided Target Recognition using Imprecise and Uncertain Data**  
 Funding Agency: Army Research Office  
 PI: Dr. Alina Zare  
 Dates: May 2019 - Present
 
+Summary:
+
 ## Completed Research Projects
 
+<figure>
+    <a href="/photos/landmine/landmine.jpg"><img src="/photos/landmine/landmine.jpg"></a>
+    <figcaption>Image of a partially-buried explosive hazard.</figcaption>
+</figure>
 * **Multi-Sensor Fusion for Buried Object Detection**  
 Funding Agency: Army Research Office  
 PI: Dr. Alina Zare  
 Dates: April 2017 - May 2019
+
+<figure>
+    <a href="/photos/landmine/gpr.jpg"><img src="/photos/landmine/gpr.jpg"></a>
+    <figcaption>Ground-penetrating radar scans.</figcaption>
+</figure>
+
+Summary:
