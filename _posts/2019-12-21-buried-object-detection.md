@@ -4,6 +4,8 @@ title: "Multi-Sensor Fusion for Buried Object Detection"
 date: 2019-12-21
 categories: [research]
 tags: [landmine]
+header:
+  teaser: /photos/landmine/landmine.jpg
 ---
 
 <figure>
