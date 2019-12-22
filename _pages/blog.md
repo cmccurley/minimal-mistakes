@@ -3,7 +3,6 @@ permalink: /blog/
 title: "Blog"
 header:
   overlay_color: "#000"
-toc: true
 ---
 
 <h1>Latest Posts</h1>
