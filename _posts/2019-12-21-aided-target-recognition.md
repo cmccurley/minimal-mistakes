@@ -5,11 +5,11 @@ date: 2019-12-21
 categories: [research]
 tags: [aided target recognition]
 header:
-  teaser: /photos/atr/detectionScene.JPG
+  teaser: "/photos/atr/detection_scene.JPG"
 ---
 
 <figure>
-    <a href="/photos/atr/detectionScene.JPG"><img src="/photos/atr/detectionScene.JPG"></a>
+    <a href="/photos/atr/detection_scene.JPG"><img src="/photos/atr/detection_scene.JPG"></a>
     <figcaption></figcaption>
 </figure>
 
