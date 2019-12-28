@@ -8,11 +8,11 @@ toc: true
 ## Publications
 
 ### Conference Papers
-* S. Meerdink, J. Bocinsky, E. Wetherley, A. Zare, **C. H. McCurley**, and P. Gader, [“Developing spectral libraries using Multiple Target Multiple Instance Adaptive Cosine/Coherence Estimator,”](https://faculty.eng.ufl.edu/machine-learning/2019/08/developing-spectral-libraries-using-multiple-target-multiple-instance-adaptive-cosine-coherence-estimator/) 10th Workshop on Hyperspectral Imaging and Signal Processing: Evolution in Remote Sensing (WHISPERS), pp. 1-5, Sept. 2019.
+* S. Meerdink, J. Bocinsky, E. Wetherley, A. Zare, **C. H. McCurley**, and P. Gader, [“Developing spectral libraries using Multiple Target Multiple Instance Adaptive Cosine/Coherence Estimator,”]({% link _posts/2019-12-28-Developing-Spectral-Libraries.md %}) 10th Workshop on Hyperspectral Imaging and Signal Processing: Evolution in Remote Sensing (WHISPERS), pp. 1-5, Sept. 2019.
 
-* **C. H. McCurley,** J. Bocinsky, A. Zare, [“Comparison of Hand-held WEMI Target Detection Algorithms,”](https://faculty.eng.ufl.edu/machine-learning/2019/03/comparison-of-hand-held-wemi-target-detection-algorithms/) in Proc. SPIE 11012, Detection and Sensing of Mines, Explosive Objects, and Obscured Targets XXIV, 2019.
+* **C. H. McCurley,** J. Bocinsky, A. Zare, [“Comparison of Hand-held WEMI Target Detection Algorithms,”]({% link _posts/2019-12-28-Comparison-of-Handheld.md %}) in Proc. SPIE 11012, Detection and Sensing of Mines, Explosive Objects, and Obscured Targets XXIV, 2019.
 
-* J. Bocinsky, **C. H. McCurley**, D. Shats and A. Zare, [“Investigation of Initialization Strategies for the Multiple Instance Adaptive Cosine Estimator,”](https://faculty.eng.ufl.edu/machine-learning/2019/04/investigation-of-initialization-strategies-for-the-multiple-instance-adaptive-cosine-estimator/) in Proc. SPIE 11012, Detection and Sensing of Mines, Explosive Objects, and Obscured Targets XXIV, 2019.
+* J. Bocinsky, **C. H. McCurley**, D. Shats and A. Zare, [“Investigation of Initialization Strategies for the Multiple Instance Adaptive Cosine Estimator,”]({% link _posts/2019-12-28-Investigation-of-Initialization.md %}) in Proc. SPIE 11012, Detection and Sensing of Mines, Explosive Objects, and Obscured Targets XXIV, 2019.
 
 ### Journal Papers
 (In Progress)

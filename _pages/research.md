@@ -16,7 +16,7 @@ I currently conduct research in the [Machine Learning and Sensing Lab](https://f
 
 ## Current Research Projects
 
-* [**Aided Target Recognition using Imprecise and Uncertain Data**]({% link _posts/2019-12-21-aided-target-recognition.md %})  
+* [**Aided Target Recognition using Imprecise and Uncertain Data**]({% link _posts/2019-12-22-aided-target-recognition.md %})  
 Funding Agency: Army Research Office  
 PI: Dr. Alina Zare  
 Dates: May 2019 - Present
