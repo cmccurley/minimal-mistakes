@@ -3,6 +3,7 @@ permalink: /aboutme/
 title: "About Me"
 header:
   overlay_color: "#000"
+toc: true
 ---
 
 ## About Me
