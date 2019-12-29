@@ -34,6 +34,8 @@ toc: true
 ## Teaching Experience
 * Supervised Teaching.  Introduction to Machine Learning, Undergraduate Course, University of Florida, Spring 2019
 
+* [GatorTRAX K-12 Outreach Program.]({% link _posts/2019-12-28-GatorTRAX-2018.md %})  Machine Learning and Remote Sensing. University of Florida, Spring 2019.
+
 * Supervised Teaching. Elements of Machine Intelligence, Graduate Course, University of Florida, Fall 2018
 
 * Vice President of Scholarship. Sigma Phi Epsilon Fraternity, Missouri University of Science and Technology, 2014
