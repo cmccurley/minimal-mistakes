@@ -21,7 +21,7 @@ toc: true
 
 * Poster Presentation. S. Zou, **C. H. McCurley**, A. Zare, C. Jiao, S. Meerdink, J. Bocinsky, N. Kroeger and P. Gader. ["Target Detection Given Uncertain Training Data,"](https://faculty.eng.ufl.edu/machine-learning/2019/12/nelms-iot-conference-presentations/) Warren B. Nelms Annual IoT Conference, Gainesville, FL, Dec. 2019.
 
-* Oral Presentation. "Comparison of Hand-held WEMI Target Detection Algorithms," International Society for Optics and Photonics (SPIE) Defense + Commercial Sensing Conference, Baltimore, MD, April 2019.
+* Oral Presentation. ["Comparison of Hand-held WEMI Target Detection Algorithms,"]({% link _posts/2019-12-28-SPIE-Baltimore-2019.md %}) International Society for Optics and Photonics (SPIE) Defense + Commercial Sensing Conference, Baltimore, MD, April 2019.
 
 * Oral Presentation.  ["Machine Learning and Remote Sensing,"](https://faculty.eng.ufl.edu/machine-learning/2019/03/our-labmates-conner-mccurley-susan-meerdink-and-weihuang-xu-helped-gatortrax-and-taught-40-kids-about-machine-learning-and-remote-sensing-recently/) GatorTRAX, University of Florida, February 2019.
 
