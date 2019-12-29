@@ -27,7 +27,7 @@ toc: true
 
 * Oral Presentation. ["Student of the Week: Machine Learning and Sensing Lab,"](http://www.gso.ece.ufl.edu/index.php/week-of-oct-8-2018/) ECE GSO General Body Meeting, University of Florida, October 2018.
 
-* Oral Presentation. "Electromagnetic Induction (EMI) Analysis, "Institute for Defense Analyses (IDA), Alexadria, VA, August 2018.
+* Oral Presentation. ["Electromagnetic Induction (EMI) Analysis,"]({% link _posts/2019-12-28-IDA-DC-2018.md %}) Institute for Defense Analyses (IDA), Alexadria, VA, August 2018.
 
 
  
