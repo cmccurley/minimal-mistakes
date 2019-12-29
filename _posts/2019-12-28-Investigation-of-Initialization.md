@@ -21,7 +21,7 @@ Sensors which use electromagnetic induction (EMI) to excite a response in conduc
 J. Bocinsky, C. McCurley, D. Shats and A. Zare, “Investigation of Initialization Strategies for the Multiple Instance Adaptive Cosine Estimator,” in Proc. SPIE 11012, Detection and Sensing of Mines, Explosive Objects, and Obscured Targets XXIV, 2019.
 ```
 
-```
+{% highlight TeX %}
 @Article{James2019Investigation
 Title = {Investigation of Initialization Strategies for the Multiple Instance Adaptive Cosine Estimator},
 Author = {Bocinsky, James and McCurley, Connor and Shats, Daniel and Zare, Alina},
@@ -31,6 +31,6 @@ Volume = {11012},
 Year = {2019},
 Month = {May},
 }
-```
+{% endhighlight %}
 
 

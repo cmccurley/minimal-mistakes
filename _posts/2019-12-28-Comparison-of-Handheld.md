@@ -24,7 +24,7 @@ Wide-band Electromagnetic Induction Sensors (WEMI) have been used for a number o
 C. McCurley, J. Bocinsky, and A. Zare, “Comparison of Hand-held WEMI Target Detection Algorithms,” in Proc. SPIE 11012, Detection and Sensing of Mines, Explosive Objects, and Obscured Targets XXIV, 2019.
 ```
 
-```
+{% highlight TeX %}
 @Article{McCurley2019Comparison
 Title = {Comparison of Hand-held WEMI Target Detection Algorithms},
 Author = {C. McCurley and J. Bocinsky and A. Zare},
@@ -33,5 +33,5 @@ Series = {Proc. SPIE},
 Volume = {11012},
 Year = {2019},
 Month = {May},
- }
-```
+}
+{% endhighlight %}

@@ -18,7 +18,7 @@ Traditional methods of developing spectral libraries for unmixing hyperspectral 
 S. Meerdink, J. Bocinsky, E. Wetherley, A. Zare, C. McCurley, and P. Gader, “Developing Spectral Libraries Using Multiple Target Multiple Instance Adaptive Cosine/Coherence Estimator,” 10th Workshop on Hyperspectral Imaging and Signal Processing: Evolution in Remote Sensing (WHISPERS), pp 1-5, Sept. 2019.
 ```
 
-```
+{% highlight TeX %}
 @Article{Meerdink2019DevelopingSpectralLibrariesMTMIACE,  
 Title = {Developing Spectral Libraries Using Multiple Target Multiple Instance Adaptive Cosine/Coherence Estimator}, 
 Author = {S. Meerdink and J. Bocinsky and E. Wetherley and A. Zare and C. McCurley and P. Gader},  
@@ -27,6 +27,6 @@ Year = {2019},
 month={Sep.},  
 pages={1-5},
 }
-```
+{% endhighlight %}
 
 
