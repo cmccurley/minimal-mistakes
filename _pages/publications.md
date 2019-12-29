@@ -19,17 +19,13 @@ toc: true
 
 ## Presentations
 
-* Poster Presentation. S. Zou, **C. H. McCurley**, A. Zare, C. Jiao, S. Meerdink, J. Bocinsky, N. Kroeger and P. Gader. ["Target Detection Given Uncertain Training Data,"](https://faculty.eng.ufl.edu/machine-learning/2019/12/nelms-iot-conference-presentations/) Warren B. Nelms Annual IoT Conference, Gainesville, FL, Dec. 2019.
+* Poster Presentation. S. Zou, **C. H. McCurley**, A. Zare, C. Jiao, S. Meerdink, J. Bocinsky, N. Kroeger and P. Gader. ["Target Detection Given Uncertain Training Data,"]({% link _posts/2019-12-28-Nelms-2019.md %}) Warren B. Nelms Annual IoT Conference, Gainesville, FL, Dec. 2019.
 
 * Oral Presentation. ["Comparison of Hand-held WEMI Target Detection Algorithms,"]({% link _posts/2019-12-28-SPIE-Baltimore-2019.md %}) International Society for Optics and Photonics (SPIE) Defense + Commercial Sensing Conference, Baltimore, MD, April 2019.
 
-* Oral Presentation.  ["Machine Learning and Remote Sensing,"](https://faculty.eng.ufl.edu/machine-learning/2019/03/our-labmates-conner-mccurley-susan-meerdink-and-weihuang-xu-helped-gatortrax-and-taught-40-kids-about-machine-learning-and-remote-sensing-recently/) GatorTRAX, University of Florida, February 2019.
-
-* Oral Presentation. ["Student of the Week: Machine Learning and Sensing Lab,"](http://www.gso.ece.ufl.edu/index.php/week-of-oct-8-2018/) ECE GSO General Body Meeting, University of Florida, October 2018.
+* Oral Presentation. ["Student of the Week: Machine Learning and Sensing Lab,"]({% link _posts/2019-12-28-Student-of-the-Week-2018.md %}) ECE GSO General Body Meeting, University of Florida, October 2018.
 
 * Oral Presentation. ["Electromagnetic Induction (EMI) Analysis,"]({% link _posts/2019-12-28-IDA-DC-2018.md %}) Institute for Defense Analyses (IDA), Alexadria, VA, August 2018.
-
-
  
 ## Teaching Experience
 * Supervised Teaching.  Introduction to Machine Learning, Undergraduate Course, University of Florida, Spring 2019
