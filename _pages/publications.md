@@ -28,10 +28,10 @@ toc: true
 * Oral Presentation. ["Electromagnetic Induction (EMI) Analysis,"]({% link _posts/2019-12-28-IDA-DC-2018.md %}) Institute for Defense Analyses (IDA), Alexadria, VA, August 2018.
  
 ## Teaching Experience
-* Supervised Teaching.  Introduction to Machine Learning, Undergraduate Course, University of Florida, Spring 2019
+* [Supervised Teaching.]({% link _posts/2019-12-29-Supervised-Teaching.md %})  Introduction to Machine Learning, Undergraduate Course, University of Florida, Spring 2019
 
 * [GatorTRAX K-12 Outreach Program.]({% link _posts/2019-12-28-GatorTRAX-2018.md %})  Machine Learning and Remote Sensing. University of Florida, Spring 2019.
 
-* Supervised Teaching. Elements of Machine Intelligence, Graduate Course, University of Florida, Fall 2018
+* [Supervised Teaching.]({% link _posts/2019-12-29-Supervised-Teaching.md %}) Elements of Machine Intelligence, Graduate Course, University of Florida, Fall 2018
 
-* Vice President of Scholarship. Sigma Phi Epsilon Fraternity, Missouri University of Science and Technology, 2014
+* [Vice President of Scholarship.]({% link _posts/2019-12-29-Vice-President-Scholarship.md %}) Sigma Phi Epsilon Fraternity, Missouri University of Science and Technology, 2014
