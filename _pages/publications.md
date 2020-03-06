@@ -7,15 +7,15 @@ toc: true
 ---
 ## Publications
 
+### Journal Papers
+* S. K. Meerdink, J. Bocinsky, A. Zare, N. Kroeger, **C. H. McCurley,** D. Shats and P. D. Gader. ["Multi-Target Multiple Instance Learning for Hyperspectral Target Detection,"]({% link _posts/2020-03-06-MT-MI-ACE-Hyperspectral.md %}) in <em>IEEE TGRS</em>, Under Review.
+
 ### Conference Papers
 * S. Meerdink, J. Bocinsky, E. Wetherley, A. Zare, **C. H. McCurley**, and P. Gader, [“Developing spectral libraries using Multiple Target Multiple Instance Adaptive Cosine/Coherence Estimator,”]({% link _posts/2019-12-28-Developing-Spectral-Libraries.md %}) 10th Workshop on Hyperspectral Imaging and Signal Processing: Evolution in Remote Sensing (WHISPERS), pp. 1-5, Sept. 2019.
 
 * **C. H. McCurley,** J. Bocinsky, A. Zare, [“Comparison of Hand-held WEMI Target Detection Algorithms,”]({% link _posts/2019-12-28-Comparison-of-Handheld.md %}) in Proc. SPIE 11012, Detection and Sensing of Mines, Explosive Objects, and Obscured Targets XXIV, 2019.
 
 * J. Bocinsky, **C. H. McCurley**, D. Shats and A. Zare, [“Investigation of Initialization Strategies for the Multiple Instance Adaptive Cosine Estimator,”]({% link _posts/2019-12-28-Investigation-of-Initialization.md %}) in Proc. SPIE 11012, Detection and Sensing of Mines, Explosive Objects, and Obscured Targets XXIV, 2019.
-
-### Journal Papers
-(In Progress)
 
 ## Presentations
 
