@@ -23,8 +23,8 @@ Target detection is a paramount area of research in the field of remote sensing 
 The figures in this post show frames taken from the DSIAC MS-003-DB dataset, which displays mid-wave infrared (MWIR) video segments of moving military vehicles taken at approximately 30 frames per second (FPS).  Many computer vision algorithms have already been developed to perform target detection using canonical bounding boxes (shown in green in the top figure).  However, drawing tight boxes around targets in each video frame is extremely tedious and time consuming.  An alternative is to allow annotators to provide less precise labels for each frame, such as relaxed bounding boxes (shown in blue in the top figure) or small subsets of target pixels such as single dots or scribbles (shown in the middle figure).  Images can even be annotated at a high level as *including* or *excluding* target pixels, as shown in the bottom figure. 
 
 <figure class="half">
-    <a href="/photos/atr/target_img.JPG"><img src="/photos/atr/target_img.JPG"></a>
-    <a href="/photos/atr/bg_img.JPG"><img src="/photos/atr/bg_img.JPG"></a>
+    <a href="/photos/atr/target_img.png"><img src="/photos/atr/target_img.png"></a>
+    <a href="/photos/atr/bg_img.png"><img src="/photos/atr/bg_img.png"></a>
     <figcaption>Example target detection training images using image-level labels. Images are labeled as either containing or exluding target pixels somewhere in the frame.</figcaption>
 </figure>
 
