@@ -3,7 +3,7 @@ layout: single
 title: "Multi-Sensor Fusion for Buried Object Detection"
 date: 2019-12-21
 categories: [research]
-tags: [landmine, weak learning, uncertain/imprecise labels, explosive hazard, target detection]
+tags: [landmine, weak learning, uncertain/imprecise labels, explosive hazard detection, target detection, multiple instance learning]
 header:
   teaser: /photos/landmine/landmine.jpg
 ---
