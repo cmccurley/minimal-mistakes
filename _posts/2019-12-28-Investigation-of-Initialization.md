@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Investigation of Initialization Strategies for the Multiple Instance Adaptive Cosine Estimator"
 date: 2019-12-28
 categories: [publication, news, conference papers]

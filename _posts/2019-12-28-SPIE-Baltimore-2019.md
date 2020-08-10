@@ -1,11 +1,10 @@
 ---
-layout: posts
+layout: single
 title: "Presentation at SPIE Defense + Commercial Sensing 2019"
 date: 2019-12-28
 categories: [news, presentations, conferences]
 tags: [SPIE, conference]
-header:
-  teaser: "/photos/postImages/2019spie/theGroup.jpg"
+excerpt:  "We presented at SPIE 2019 in Baltimore, MA!"
 ---
 
 <figure>

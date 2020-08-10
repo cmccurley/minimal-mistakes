@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Comparison of Hand-held WEMI Target Detection Algorithms"
 date: 2019-12-28
 categories: [publication, news, conference papers]

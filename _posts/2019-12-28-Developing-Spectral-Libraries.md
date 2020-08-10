@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Developing Spectral Libraries Using Multiple Target Multiple Instance Adaptive CosineCoherence Estimator"
 date: 2019-12-28
 categories: [publication, news, conference papers]

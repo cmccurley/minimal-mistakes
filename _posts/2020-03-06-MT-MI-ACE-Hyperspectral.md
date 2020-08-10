@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Multi-Target Multiple Instance Learning for Hyperspectral Target Detection"
 date: 2020-03-06
 categories: [publication, news, conference papers]
