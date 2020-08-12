@@ -2,8 +2,7 @@
 permalink: /aboutme/
 title: "About Me"
 header:
-  overlay_image: /photos/stock/wp04.jpg
-  show_overlay_excerpt: true
+  overlay_color: "#000"
 toc: true
 ---
 
