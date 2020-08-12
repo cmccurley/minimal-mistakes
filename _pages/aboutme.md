@@ -3,7 +3,6 @@ permalink: /aboutme/
 title: "About Me"
 header:
   overlay_image: /photos/stock/wp04.jpg
-  overlay_filter: "0.4"
   show_overlay_excerpt: true
 toc: true
 ---
