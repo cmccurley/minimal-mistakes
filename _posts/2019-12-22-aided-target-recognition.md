@@ -13,7 +13,7 @@ header:
     <figcaption>Figure 1: Two targets from the DSIAC MS-003-DB dataset.  Canonical bounding boxes are shown in green while imprecise, "relaxed" bounding boxes are shown in blue.  Red dots denote the centers of the targets.</figcaption>
 </figure>
 
-Target detection is a paramount area of research in the field of remote sensing which aims to locate an object or region of interest while suppressing unrelated objects and information (Geng 2017, Chaudhuri 1995, Zare 2018).  Traditional supervised learning approaches require extensive amounts of highly precise, sample-level or pixel-level groundtruth to guide algorithmic training.  However, acquiring large quantities of accurately labeled training data can be expensive, both in terms of time and resources, and may actually be unattainable in some cases.  
+Target detection is a paramount area of research in the field of remote sensing which aims to locate an object or region of interest while suppressing unrelated objects and information (Geng 2017, Chaudhuri 1995, Zare 2018).  Traditional supervised learning approaches require extensive amounts of highly precise, sample-level or pixel-level groundtruth to guide algorithmic training.  However, acquiring large quantities of accurately labeled training data can be expensive, both in terms of time and resources, or may even be unattainable.  
 
 <figure>
     <a href="/photos/atr/weak_labels.JPG"><img src="/photos/atr/weak_labels.JPG"></a>
