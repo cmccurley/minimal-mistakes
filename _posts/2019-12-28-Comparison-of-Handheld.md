@@ -25,7 +25,7 @@ C. McCurley, J. Bocinsky, and A. Zare, “Comparison of Hand-held WEMI Target De
 ```
 
 {% highlight TeX %}
-@Article{McCurley2019Comparison
+@Article{McCurley2019Comparison,
 Title = {Comparison of Hand-held WEMI Target Detection Algorithms},
 Author = {C. McCurley and J. Bocinsky and A. Zare},
 Booktitle = {Detection and Sensing of Mines, Explosive Objects, and Obscured Targets XXIV},

@@ -22,7 +22,7 @@ J. Bocinsky, C. McCurley, D. Shats and A. Zare, “Investigation of Initializati
 ```
 
 {% highlight TeX %}
-@Article{James2019Investigation
+@Article{James2019Investigation,
 Title = {Investigation of Initialization Strategies for the Multiple Instance Adaptive Cosine Estimator},
 Author = {Bocinsky, James and McCurley, Connor and Shats, Daniel and Zare, Alina},
 Booktitle = {Detection and Sensing of Mines, Explosive Objects, and Obscured Targets XXIV},
