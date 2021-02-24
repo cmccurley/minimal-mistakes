@@ -15,7 +15,7 @@ In remote sensing, it is often challenging to acquire or collect a large dataset
 
 ## Citation:
 ```
-S.K. Meerdink, J. Bocinsky, A. Zare, N. Kroeger, C. H. McCurley, D. Shats and P.D. Gader. "Multi-Target Multiple Instance Learning for Hyperspectral Target Detection," in IEEE TGRS, Under Review.
+S.K. Meerdink, J. Bocinsky, A. Zare, N. Kroeger, C. H. McCurley, D. Shats and P.D. Gader. "Multi-Target Multiple Instance Learning for Hyperspectral Target Detection," in IEEE TGRS.  In Press.
 ```
 
 {% highlight TeX %}
@@ -23,7 +23,7 @@ S.K. Meerdink, J. Bocinsky, A. Zare, N. Kroeger, C. H. McCurley, D. Shats and P.
 Title = {Multi-Target Multiple Instance Learning for Hyperspectral Target Detection}, 
 Author = {S.K. Meerdink and J. Bocinsky and A. Zare and N. Kroeger and C. H. McCurley and D. Shats and P.D. Gader},  
 Journal={IEEE TGRS}
-Year = {Under Review},  
+Year = {In Press},  
 month={},  
 pages={},
 }
