@@ -8,7 +8,7 @@ toc: true
 ## Publications
 
 ### Under Review/ In Preparation
-* S. K. Meerdink, J. Bocinsky, A. Zare, N. Kroeger, **C. H. McCurley,** D. Shats and P. D. Gader. ["Multi-Target Multiple Instance Learning for Hyperspectral Target Detection,"]({% link _posts/2020-03-06-MT-MI-ACE-Hyperspectral.md %}) in <em>IEEE TGRS</em>, Under Review (Minor Revision).
+* S. K. Meerdink, J. Bocinsky, A. Zare, N. Kroeger, **C. H. McCurley,** D. Shats and P. D. Gader. ["Multi-Target Multiple Instance Learning for Hyperspectral Target Detection,"]({% link _posts/2020-03-06-MT-MI-ACE-Hyperspectral.md %}) in <em>IEEE TGRS</em>. In Press.
 
 * J. Peeples, S. Walker, **C. H. McCurley**, A. Zare and J. Keller. "Divergence Regulated Encoder Network for Joint Dimensionality Reduction and Classification."  Under Review.
 
