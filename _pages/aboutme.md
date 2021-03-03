@@ -8,7 +8,7 @@ toc: true
 
 ## About Me
 
-Hey, I'm Connor.  I am a PhD student working in [Machine Learning and Pattern Recognition](https://en.wikipedia.org/wiki/Machine_learning) at the [University of Florida](https://www.ece.ufl.edu/), advised by [Dr. Alina Zare](https://faculty.eng.ufl.edu/machine-learning/machine-learning-sensing-lab/).  My current research interests include target detection and multi-sensor, multi-resolution fusion using uncertain and ambiguously labeled data, specifically, through the utilization of [manifold learning](https://en.wikipedia.org/wiki/nonlinear_dimensionality_reduction).
+Hey, I'm Connor.  I am a PhD candidate working in [Machine Learning and Pattern Recognition](https://en.wikipedia.org/wiki/Machine_learning) at the [University of Florida](https://www.ece.ufl.edu/), advised by [Dr. Alina Zare](https://faculty.eng.ufl.edu/machine-learning/machine-learning-sensing-lab/).  My current research interests include target detection and multi-sensor, multi-resolution fusion using uncertain and ambiguously labeled data, specifically, through the utilization of [manifold learning](https://en.wikipedia.org/wiki/nonlinear_dimensionality_reduction).
 
 I have been blessed during my graduate studies to be funded by the Army's Night Vision and Electronic Sensors Directorate (NVESD).  So far I have worked on developing algorithms for explosive hazard detection and aided target recognition.  Throughout this work I have been able to explore areas such as sensor fusion, background modeling, dictionary learning, target detection/classification, manifold learning, and learning from weakly-labeled data.
 
