@@ -4,6 +4,8 @@ permalink: /blog/
 title: "Blog"
 header:
   overlay_color: "#000"
+  overlay_filter: "0.1"
+  overlay_image: /photos/network_banner.png
 ---
 
 <h1>Latest Posts</h1>

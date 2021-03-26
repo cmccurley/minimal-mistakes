@@ -3,6 +3,8 @@ permalink: /connect/
 title: "Connect"
 header:
   overlay_color: "#000"
+  overlay_filter: "0.1"
+  overlay_image: /photos/network_banner.png
 ---
 
 Let's connect!  Here is my contact information:
